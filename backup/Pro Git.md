@@ -12,7 +12,6 @@ https://www.cnblogs.com/mq0036/p/17082938.html
 3、提交（git commit）：将暂存区域的文件提交到Git仓库。
 4、推送（git push）：将本地仓库推送到远程仓库，同步版本库。
 5、获取更新（fetch/pull）：从服务端更新到本地，获取他人推送的更新，与他人协作、共享。
-![image](https://github.com/user-attachments/assets/d46b074e-fb95-4e3d-8961-ceca363b5fb5)
 git commit -a指令省略了add到暂存区的步骤，直接提交工作区的修改内容到版本库，不包括新增的文件。
 git fetch、git pull 都是从远程服务端获取最新记录，区别是git pull多了一个步骤，就是自动合并更新工作区。
 git checkout .、git checkout [file] 会清除工作区中未添加到暂存区的修改，用暂存区内容替换工作区。
