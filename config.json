@@ -2,5 +2,11 @@
     "title":"unix & tea",
     "subTitle":"blog",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeUrl":"https://blog.unixtea.com",
+    "needComment": 0,
+    "i18n":"CN",
+    "urlMode":"pinyin",
+    "UTC":8,
+    "onePageListNum":15,
 }
