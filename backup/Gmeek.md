@@ -10,4 +10,8 @@
 
 **快速上手**：https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html
 
-之前使用hexo搭建过博客，也利用了github的免费服务，当时觉得也已经比较方便了，比起传统的wordpress。不过总体来说，Gmeek这种更加纯粹、方便简洁。就连图片都很方便贴上来，很舒服，学习成本很低，还可以考虑结合cloudflare的域名、cdn、https等免费服务，现在搞个人博客，真的算是省心省力了。
+之前使用hexo搭建过博客，也利用了github的免费服务，当时觉得也已经比较方便了，尤其是比起传统的wordpress。
+
+现在Gmeek这种更加纯粹、方便简洁。就连图片都很方便贴上来，很舒服，学习成本很低，还可以考虑结合cloudflare的域名、cdn、https等免费服务一起使用。
+
+现在搞个人博客，真的算是省心省力了。
